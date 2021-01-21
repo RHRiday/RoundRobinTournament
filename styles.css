@@ -1,0 +1,58 @@
+body{
+    color: #190b35;
+    font-family: 'Fira Sans', sans-serif;
+}
+h3{
+    margin: 10px auto;
+    text-align: center;
+}
+form{
+    text-align: center;
+}
+.container{
+    padding-top: 30px;
+}
+.inputs{
+    padding: 10px;
+    text-align: center;
+    margin: 4px 20px;
+}
+input#teams {
+    text-align: center;
+    padding: 8px;
+    font-size: 20px;
+    font-weight: 900;
+    width: 135px;
+}
+.names{
+    display: flex;
+    justify-content: space-around;
+}
+.btn{
+    margin-top: 15px;
+    margin-bottom: 50px;
+}
+.back{
+    margin-left: 25%;
+}
+.table{
+    width: 50%;
+    margin: 35px auto;
+    text-align: center;
+}
+@media only screen and (max-width: 1000px){
+    .table{
+        width: 65%;
+    }
+    .back{
+        margin-left: 18%;
+    }
+}
+@media only screen and (max-width: 670px){
+    .table{
+        width: 95%;
+    }
+    .back{
+        margin-left: 3%;
+    }
+}
