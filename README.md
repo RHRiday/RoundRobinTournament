@@ -1,6 +1,6 @@
 # RoundRobinTournament
 
-<h3>Short desciption:</h3>
+<h3>Short description:</h3>
 This is an implementation of <b>RoundRobin Algorithm</b> in <b>PHP</b>. Which generates the possible combination of each element for a given array. Supposably the array to be an array of participating teams in a tournament where each team will battle every other teams in the tournament. This algorthim can be used to generate a pseudo random schedule for the tournament.
 
 <h3> Use cases: </h3>
